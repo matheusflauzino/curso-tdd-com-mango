@@ -1,7 +1,7 @@
 {
-  "name": "curso-tdd-com-mango",
+  "name": "clean-node-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Projeto Curso Manginho",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
