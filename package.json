@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/matheusflauzino/curso-tdd-com-mango/issues"
   },
-  "homepage": "https://github.com/matheusflauzino/curso-tdd-com-mango#readme"
+  "homepage": "https://github.com/matheusflauzino/curso-tdd-com-mango#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
 }
