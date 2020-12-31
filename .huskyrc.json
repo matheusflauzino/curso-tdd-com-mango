@@ -1,6 +1,5 @@
 {
-    "*.ts": [
-        "eslint 'src/**' --fix",
-        "git add"
-    ]
+  "hooks": {
+    "pre-commit": "lint-staged"
+  }
 }
