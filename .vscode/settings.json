@@ -2,5 +2,6 @@
   "editor.defaultFormatter": "vscode.typescript-language-features",
   "typescript.format.insertSpaceBeforeFunctionParenthesis": true,
   "editor.formatOnSave": true,
-  "editor.formatOnPaste": false
+  "editor.formatOnPaste": false,
+  "editor.tabSize": 2
 }
